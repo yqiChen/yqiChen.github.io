@@ -6,15 +6,15 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "RuyiWei",
+    name: "yqiChen",
     // url: "https://mister-hope.com",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.svg",
+  logo: "/logo.png",
 
-  repo: "weiruyi",
+  repo: "yqiChen",
 
   docsDir: "src",
 
@@ -32,10 +32,10 @@ export default hopeTheme({
   blog: {
     description: "一个Java菜鸟",
     // intro: "/intro.html",
-    avatar: "/logo.svg",
+    avatar: "/logo.png",
     medias: {
-      Github: "https://github.com/weiruyi",
-      Gmail: "weiruyiowo@gmail.com",
+      Github: "https://github.com/yqiChen",
+      // Gmail: "weiruyiowo@gmail.com",
     },
   },
 
