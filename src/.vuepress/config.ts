@@ -5,7 +5,7 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "Lance",
+  title: "七七~",
   description: "vuepress-theme-hope 的博客演示",
   head: [
     // 设置 favor.ico，.vuepress/public 下

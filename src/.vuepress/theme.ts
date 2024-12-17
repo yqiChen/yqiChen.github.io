@@ -30,7 +30,7 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
-    description: "一个Java菜鸟",
+    description: "一个菜鸟",
     // intro: "/intro.html",
     avatar: "/logo.png",
     medias: {
